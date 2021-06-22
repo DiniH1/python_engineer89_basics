@@ -1,15 +1,15 @@
-#  Python
-python is a dynamically typed language
-# lets test
+# Python
+# python is a dynamically typed language
+ lets test
 print("Hello Dini H")
 #print func used to display outcome provided in the string
 
-#Variables
-#python variables as a place holder to store data
-# it could me a string "anything between these quotations"
-# integers/numbers
-#Syntax to create a variable name of the variable = value of the variable
-#foolow your logical naming convention
+# Variables
+## python variables as a place holder to store data
+it could me a string "anything between these quotations"
+ integers/numbers
+# Syntax to create a variable name of the variable = value of the variable
+## follow your logical naming convention
 
 First_Name = 'Dini'
 Last_Name = 'Hassan'
@@ -51,16 +51,16 @@ print(user_name)
 # / divide
 # % gives the remainder
 
-# comparison operators
-# >
-# <
-# ==
-# !=
-# <=
-# >=
+comparison operators
+ >
+ <
+ ==
+!=
+ <=
+ >=
 
-# number_1 = 4
-# number_2 = 2
+ number_1 = 4
+ number_2 = 2
 
 print(number_1+number_2) # add two vals
 print(number_1-number_2) # subtract two vals
